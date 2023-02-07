@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zjw's personal homepage"
+title                    : "JiaWei Zhang's personal homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
