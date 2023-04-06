@@ -19,7 +19,7 @@ My research interest lie in computer vision and deep learning. Currently, I focu
 Education
 ------
 * School of Artificial Intelligence, Xidian University
-* 
+
   Xi'an, P.R. China
   
   B. Eng.
