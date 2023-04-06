@@ -18,8 +18,10 @@ My research interest lie in computer vision and deep learning. Currently, I focu
 
 Education
 ------
-* School of Artificial Intelligence, Xidian University, Xi'an, P.R. China
-  B. Eng., from Sep. 2020 to Now.  **GPA:3.8/4.0**
+* School of Artificial Intelligence, Xidian University
+  Xi'an, P.R. China
+  B. Eng.
+  from Sep. 2020 to Now.  **GPA:3.8/4.0**
 
 Publication
 ------
