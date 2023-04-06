@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: https://zjwxdu.github.io/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "CV"
+    url: /CV_zh.pdf
     
 #   - title: "Guide"
 #     url: /markdown/
