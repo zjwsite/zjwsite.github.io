@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JiaWei Zhang's personal homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JiaWei Zhang"
+  name             : "JiaWei Zhang(张嘉伟)"
   avatar           : "zjw.png"
   bio              : ""
   location         : "China XiAn"
