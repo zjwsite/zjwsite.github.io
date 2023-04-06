@@ -20,7 +20,9 @@ Education
 ------
 * School of Artificial Intelligence, Xidian University, Xi'an, P.R. China
   
-  B. Eng. from Sep. 2020 to Now.  **GPA:3.8/4.0**
+  B. Eng. from Sep. 2020 to Now.
+  
+  **GPA:3.8/4.0**
 
 Publication
 ------
