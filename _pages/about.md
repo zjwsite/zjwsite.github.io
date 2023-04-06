@@ -25,7 +25,7 @@ Publication
 
 [Towards the Automatic Modulation Classification with Adaptive Wavelet Network](https://ieeexplore.ieee.org/document/10058977)
 
-\***Jiawei Zhang\***, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+\**Jiawei Zhang\**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
 
 </div>
 </div>
