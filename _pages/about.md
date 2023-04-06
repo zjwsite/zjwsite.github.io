@@ -22,6 +22,8 @@ Education
   
   B. Eng. from Sep. 2020 to Now.
   
+  Major in Artificial Intelligence, *Turing Elite Class*
+  
   **GPA:3.8/4.0**
 
 Publication
