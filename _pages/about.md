@@ -27,7 +27,7 @@ Publication
 
 **Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
   
-[code](https://github.com/zjwXDU/AWN)
+[[code]](https://github.com/zjwXDU/AWN)
 
 </div>
 </div>
@@ -39,7 +39,7 @@ Publication
 
 **Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
   
-[code](https://github.com/zjwXDU/AMC-Net)
+[[code]](https://github.com/zjwXDU/AMC-Net)
 
 </div>
 </div>
@@ -53,7 +53,7 @@ Preprint
 
 Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu *\*co-first author*
   
-[code](https://github.com/LinghaoChan/HumanMAC)[homepage](https://lhchen.top/Human-MAC/)
+[[code]](https://github.com/LinghaoChan/HumanMAC)[[homepage]](https://lhchen.top/Human-MAC/)
 
 </div>
 </div>
