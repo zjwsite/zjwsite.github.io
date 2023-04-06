@@ -46,7 +46,7 @@ Publication
 
 Preprint
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/HumanMAC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HumanMAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665)
