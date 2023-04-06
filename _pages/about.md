@@ -20,10 +20,20 @@ Education
 Publication
 ------
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/TNNLS_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2023</div><img src='images/TCCN_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards the Automatic Modulation Classification with Adaptive Wavelet Network](https://ieeexplore.ieee.org/document/10058977)
+
+\**Jiawei Zhang\**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/ICASSP_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AMC-Net: An Effective Network for Automatic Modulation Classification](https://arxiv.org/abs/2304.00445)
 
 \**Jiawei Zhang\**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
 
