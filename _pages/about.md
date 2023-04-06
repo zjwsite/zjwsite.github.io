@@ -25,7 +25,7 @@ Publication
 
 [Towards the Automatic Modulation Classification with Adaptive Wavelet Network](https://ieeexplore.ieee.org/document/10058977)
 
-\**Jiawei Zhang\**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+**Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
 
 </div>
 </div>
@@ -35,8 +35,19 @@ Publication
 
 [AMC-Net: An Effective Network for Automatic Modulation Classification](https://arxiv.org/abs/2304.00445)
 
-\**Jiawei Zhang\**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+**Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
 
 </div>
 </div>
 
+Preprint
+------
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/HumanMAC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665)
+
+Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu *\*co-first author*
+
+</div>
+</div>
