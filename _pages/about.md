@@ -26,6 +26,8 @@ Publication
 [Towards the Automatic Modulation Classification with Adaptive Wavelet Network](https://ieeexplore.ieee.org/document/10058977)
 
 **Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+  
+[code](https://github.com/zjwXDU/AWN)
 
 </div>
 </div>
@@ -36,6 +38,8 @@ Publication
 [AMC-Net: An Effective Network for Automatic Modulation Classification](https://arxiv.org/abs/2304.00445)
 
 **Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+  
+[code](https://github.com/zjwXDU/AMC-Net)
 
 </div>
 </div>
@@ -48,6 +52,8 @@ Preprint
 [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://arxiv.org/abs/2302.03665)
 
 Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu *\*co-first author*
+  
+[code](https://github.com/LinghaoChan/HumanMAC)[homepage](https://lhchen.top/Human-MAC/)
 
 </div>
 </div>
@@ -58,4 +64,4 @@ Honors & Awards
 * Kaggle: G2Net Detecting Continuous Gravitational Waves Silver Medal (Top 5%)
 * First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) in Shaanxi Province
 * Finalist Winner (First prize), International Mathematical Contest in Modeling (MCM/ICM)
-* O
+* Outstanding Student at the School Level
