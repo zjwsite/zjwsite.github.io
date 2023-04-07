@@ -1,7 +1,7 @@
 ---
-title: "Jetson Nano car"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/car.png'>"
+title: "Jetson Nano Car"
+excerpt: "An entry-level smart car<br/><img src='/images/car.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![](/images/car.png)
+As a freshman, this little car was the beginning of my deep learning career. Through it I first learned about CUDA, cudnn, Pytorch, yolov5d, etc. I still get excited when I remember the first time the car recognized a toy police model and stopped.
