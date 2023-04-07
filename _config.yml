@@ -182,7 +182,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    title: My collections~
     output: true
     permalink: /:collection/:path/
   talks:
@@ -235,8 +234,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
+      title: My collections~
   # _talks
   - scope:
       path: ""
