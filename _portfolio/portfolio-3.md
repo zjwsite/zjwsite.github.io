@@ -1,5 +1,5 @@
 ---
-title: "My blog"
+title: "My Blog"
 excerpt: "<img src='/images/blog.png'>"
 collection: portfolio
 ---
