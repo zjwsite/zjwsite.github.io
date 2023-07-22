@@ -1,6 +1,6 @@
 ---
 title: "PGGAN Pytorch Implement"
-excerpt: "<img src='/images/pggan.png'>"
+excerpt: "<details><summary></summary><img src='/images/pggan.png'></details>"
 collection: portfolio
 ---
 ![](/images/pggan.png)
