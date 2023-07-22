@@ -1,6 +1,6 @@
 ---
 title: "Fractional Fourier Transform"
-excerpt: "<details><summary></summary><img src='/images/FRFT.gif'></details>"
+excerpt: ""
 collection: portfolio
 ---
 ![](/images/FRFT.gif)
