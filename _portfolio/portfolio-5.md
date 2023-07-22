@@ -1,6 +1,6 @@
 ---
 title: "FastICA"
-excerpt: "<img src='/images/ica.png'>"
+excerpt: "<details><summary></summary><img src='/images/ica.png'></details>"
 collection: portfolio
 ---
 ![](/images/ica.png)
