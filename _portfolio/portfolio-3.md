@@ -1,6 +1,6 @@
 ---
 title: "My Blog"
-excerpt: "<img src='/images/blog.png'>"
+excerpt: "<details><summary></summary><img src='/images/blog.png'></details>"
 collection: portfolio
 ---
 ![](/images/blog.png)
