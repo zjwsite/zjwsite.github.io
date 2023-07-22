@@ -1,6 +1,6 @@
 ---
 title: "Oven Temperature Curve"
-excerpt: "<details><summary></summary><img src='/images/oven.png'></details>"
+excerpt: ""
 collection: portfolio
 ---
 ![](/images/oven.png)
