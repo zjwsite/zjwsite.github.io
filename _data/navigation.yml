@@ -13,10 +13,10 @@ main:
 #     url: /portfolio/
 
   - title: "CV"
-    url: /CV_en.pdf
+    url: /CV_EN.pdf
   
   - title: "简历"
-    url: /CV_zh.pdf
+    url: /CV_CN.pdf
     
   - title: "Blog Posts"
     url: https://zjwxdu.github.io/
