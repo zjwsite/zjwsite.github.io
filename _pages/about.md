@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+✏️ Biography
 ------
 I'm a third-year undergraduate student from [School of artificial intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
 
@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu
 
 My research interest lie in computer vision and deep learning. Currently, I focus on **human motion analysis**, **radio frequency machine learning**, and **signal processing**. I am currently actively seeking knowledge in the field of 3D computer vision, such as **3D reconstruction**, **text-to-3D generation**, and more.
 
-Education
+📘 Education
 ------
 * School of Artificial Intelligence, Xidian University, Xi'an, P.R. China
   
@@ -26,7 +26,7 @@ Education
   
   **GPA:3.8/4.0**
 
-Publication
+📄 Publication
 ------
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2023</div><img src='images/TCCN_2023.png' alt="sym" width="100%"></div></div>
