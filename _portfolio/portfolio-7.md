@@ -1,6 +1,6 @@
 ---
 title: "Signal Analysis Helper"
-excerpt: "<details><summary></summary><img src='/images/sig_analysiser.png'></details>"
+excerpt: ""
 collection: portfolio
 ---
 ![](/images/sig_analysiser.png)
