@@ -1,6 +1,6 @@
 ---
 title: "Hand-crafted Feature Toolbox"
-excerpt: "<details><summary></summary><img src='/images/sig_fea.png'></details>"
+excerpt: ""
 collection: portfolio
 ---
 ![](/images/sig_fea.png)
