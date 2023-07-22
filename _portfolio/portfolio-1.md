@@ -1,6 +1,6 @@
 ---
 title: "Jetson Nano Car"
-excerpt: "<details><summary></summary><img src='/images/car.png'></details>"
+excerpt: ""
 collection: portfolio
 ---
 ![](/images/car.png)
