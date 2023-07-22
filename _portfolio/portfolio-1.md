@@ -1,4 +1,3 @@
-
 ---
 title: "Jetson Nano Car"
 excerpt: "<img src='/images/car.png'>"
