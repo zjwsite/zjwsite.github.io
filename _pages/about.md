@@ -53,7 +53,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 </div>
 </div>
 
-🎖Honors & Awards
+🏆 Honors & Awards
 ------
 * Chinese National Student Scholarship, Ministry of Education of P.R. China
 * Kaggle: G2Net Detecting Continuous Gravitational Waves Silver Medal (Top 5%)
