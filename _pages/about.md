@@ -29,7 +29,7 @@ My research interest lie in computer vision and deep learning. Currently, I focu
         <img src="./images/XidianUniversity.jpeg">  
     </div> 
     <div style="clear: both;"></div>
-  </div>
+    </div>
 
 📄 Publication
 ------
@@ -70,8 +70,8 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 ------
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
-     	<p>Research intern, Key Laboratory of Intelligent Perception and Image
-Understanding of Ministry of Education</p>
+     	<p>2021.09—2023.04, Research intern</p>
+      <p>Key Laboratory of Intelligent Perception and Image Understanding</p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/ipiu.jpg">  
