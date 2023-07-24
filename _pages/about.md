@@ -18,21 +18,13 @@ My research interest lie in computer vision and deep learning. Currently, I focu
 
 📘 Education
 ------
-* School of Artificial Intelligence, Xidian University, Xi'an, P.R. China
-  
-  B. Eng. from Sep. 2020 to Now.
-  
-  Major in Artificial Intelligence, *Experimental Class*
-  
-  **GPA:3.8/4.0**
   <div class="row">   
     <div class="column" style="float:left;width:75%"> 
-     	   <u>Consider the familiar child’s game of tic-tac-toe.</u> Because a skilled player can play so as never to lose, let us assume that we are playing against an <u>imperfect player</u>, one whose play is sometimes incorrect and allows us to win. For the moment, in fact, let us consider draws and losses to be equally bad for us. How might we <u>construct a player</u> that will <u>find the imperfections in its opponent’s play and learn to maximize its chances of winning</u>?
+     	   <u>* School of Artificial Intelligence, Xidian University, Xi'an, P.R. China</u>B. Eng. from Sep. 2020 to Now.<u>Major in Artificial Intelligence, *Experimental Class*</u>**GPA:3.8/4.0**<u>
     </div>
     <div class="column" style="float:left;width:25%">    
         <img src="./images/XidianUniversity.jpeg">  
     </div> 
-</div>
 
 📄 Publication
 ------
