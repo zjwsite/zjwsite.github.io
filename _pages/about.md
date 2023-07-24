@@ -71,7 +71,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
      	<p>2021.09—2023.04, Research intern</p>
-      <p>Key Laboratory of Intelligent Perception and Image Understanding</p>
+      <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/ipiu.jpg">  
