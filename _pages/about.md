@@ -19,12 +19,12 @@ My research interest lie in computer vision and deep learning. Currently, I focu
 📘 Education
 ------
   <div class="row">   
-    <div class="column" style="float:left;width:75%"> 
+    <div class="column" style="float:left;width:80%"> 
      	<p>School of Artificial Intelligence, Xidian University, Xi'an, P.R. China</p>
-      <p>B. Eng. from Sep. 2020 to Now.<u>Major in Artificial Intelligence, *Experimental Class*
+      <p>B. Eng. from Sep. 2020 to Now. Major in Artificial Intelligence, *Experimental Class*
       <p>**GPA:3.8/4.0**</p>
     </div>
-    <div class="column" style="float:left;width:25%">    
+    <div class="column" style="float:left;width:10%">    
         <img src="./images/XidianUniversity.jpeg">  
     </div> 
   </div> 
