@@ -65,3 +65,16 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 * First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) in Shaanxi Province
 * Finalist Winner (First prize), International Mathematical Contest in Modeling (MCM/ICM)
 * Outstanding Student at the School Level
+
+💻Internships
+------
+  <div class="row">   
+    <div class="column" style="float:left;width:85%"> 
+     	<p>Research intern, Key Laboratory of Intelligent Perception and Image
+Understanding of Ministry of Education</p>
+    </div>
+    <div class="column" style="float:left;width:15%">    
+        <img src="./images/ipiu.jpg">  
+    </div> 
+    <div style="clear: both;"></div>
+  </div>
