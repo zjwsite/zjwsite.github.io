@@ -27,7 +27,7 @@ My research interest lie in computer vision and deep learning. Currently, I focu
     <div class="column" style="float:left;width:25%">    
         <img src="./images/XidianUniversity.jpeg">  
     </div> 
-
+  </div> 
 
 📄 Publication
 ------
