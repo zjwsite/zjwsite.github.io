@@ -17,7 +17,7 @@ My research interest lie in computer vision and deep learning. Currently, I focu
 
 I am currently actively seeking knowledge in the field of 3D computer vision, such as *3D reconstruction*, *text-to-3D generation*, and more.
 
-
+&nbsp;
 📘 Education
 ------
   <div class="row">   
@@ -33,7 +33,7 @@ I am currently actively seeking knowledge in the field of 3D computer vision, su
     <div style="clear: both;"></div>
     </div>
 
-
+&nbsp;
 📄 Publication
 ------
 
@@ -61,7 +61,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 </div>
 </div>
 
-
+&nbsp;
 🏆 Honors & Awards
 ------
 * Chinese National Student Scholarship, Ministry of Education of P.R. China
@@ -70,7 +70,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 * Finalist Winner (First prize), International Mathematical Contest in Modeling (MCM/ICM)
 * Outstanding Student at the School Level
 
-
+&nbsp;
 💻Internships
 ------
   <div class="row">   
