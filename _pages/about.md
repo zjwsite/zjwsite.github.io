@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Jiawei Zhang"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 ✏️ Biography
 ------
 I'm a third-year undergraduate student from [School of artificial intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
