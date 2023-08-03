@@ -16,8 +16,8 @@ I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu
 My research interest lie in computer vision and deep learning. Currently, I focus on *human motion analysis*, *radio frequency machine learning*, and *signal processing*.
 
 I am currently actively seeking knowledge in the field of 3D computer vision, such as *3D reconstruction*, *text-to-3D generation*, and more.
-
 <br>
+
 📘 Education
 ------
   <div class="row">   
@@ -32,8 +32,8 @@ I am currently actively seeking knowledge in the field of 3D computer vision, su
     </div> 
     <div style="clear: both;"></div>
     </div>
-
 <br>
+
 📄 Publication
 ------
 
@@ -60,8 +60,8 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 
 </div>
 </div>
-
 <br>
+
 🏆 Honors & Awards
 ------
 * Chinese National Student Scholarship, Ministry of Education of P.R. China
@@ -69,8 +69,8 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 * First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) in Shaanxi Province
 * Finalist Winner (First prize), International Mathematical Contest in Modeling (MCM/ICM)
 * Outstanding Student at the School Level
-
 <br>
+
 💻Internships
 ------
   <div class="row">   
