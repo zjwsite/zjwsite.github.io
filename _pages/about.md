@@ -13,9 +13,9 @@ I'm a third-year undergraduate student from [School of artificial intelligence](
 
 I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/), [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) from [IPIU lab](https://ipiu.xidian.edu.cn/).
 
-My research interest lie in computer vision and deep learning. Currently, I focus on **human motion analysis**, **radio frequency machine learning**, and **signal processing**.
+My research interest lie in computer vision and deep learning. Currently, I focus on *human motion analysis*, *radio frequency machine learning*, and *signal processing*.
 
-I am currently actively seeking knowledge in the field of 3D computer vision, such as **3D reconstruction**, **text-to-3D generation**, and more.
+I am currently actively seeking knowledge in the field of 3D computer vision, such as *3D reconstruction*, *text-to-3D generation*, and more.
 
 📘 Education
 ------
