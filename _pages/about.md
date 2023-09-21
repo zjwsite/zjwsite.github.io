@@ -90,8 +90,8 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
-     	<p>2023.10—, Research intern</p>
-      <p>OPPO research</p>
+     	<p>2023.09—on going, Research intern</p>
+      <p>OPPO Research</p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/oppo.jpg">  
