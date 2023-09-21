@@ -9,7 +9,7 @@ redirect_from:
 ---
 ✏️ Biography
 ------
-I'm a third-year undergraduate student from [School of artificial intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
+I'm a senior undergraduate student from [School of artificial intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
 
 I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/), [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) from [IPIU lab](https://ipiu.xidian.edu.cn/).
 
@@ -84,6 +84,17 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/ipiu.jpg">  
+    </div> 
+    <div style="clear: both;"></div>
+  </div>
+
+  <div class="row">   
+    <div class="column" style="float:left;width:85%"> 
+     	<p>2023.10—, Research intern</p>
+      <p>OPPO research</p>
+    </div>
+    <div class="column" style="float:left;width:15%">    
+        <img src="./images/oppo.jpg">  
     </div> 
     <div style="clear: both;"></div>
   </div>
