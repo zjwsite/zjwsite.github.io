@@ -12,11 +12,11 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
 
-  - title: "Resume"
-    url: /CV_EN.pdf
+#  - title: "Resume"
+#    url: /CV_EN.pdf
   
-  - title: "简历"
-    url: /CV_CN.pdf
+#  - title: "简历"
+#    url: /CV_CN.pdf
     
   - title: "Blog Posts"
     url: https://zjwxdu.github.io/
