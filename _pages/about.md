@@ -17,6 +17,8 @@ I used to focus on *human motion analysis*, *radio frequency machine learning*, 
 
 Now, I am actively seeking knowledge in the field of 3D computer vision, such as *3D reconstruction*, *text-to-3D generation*, and more.
 
+I am going to purse a master's degree in [CITE Lab](https://cite.nju.edu.cn/), [School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).
+
 <br>
 
 📘 Education
