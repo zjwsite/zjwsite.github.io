@@ -13,11 +13,9 @@ I'm a senior undergraduate student from [School of artificial intelligence](http
 
 I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/), [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) from [IPIU lab](https://ipiu.xidian.edu.cn/).
 
-I used to focus on *human motion analysis*, *radio frequency machine learning*, and *signal processing*.
+My current research interests lie in 3D computer vision and facial modeling.
 
-Now, I am actively seeking knowledge in the field of 3D computer vision, such as *3D reconstruction*, *text-to-3D generation*, and more.
-
-I am admitted to purse a master's degree in [CITE Lab](https://cite.nju.edu.cn/), [School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
+I am admitted to purse a master's degree in NJU 3DV lab without entrance examination.
 
 <br>
 
@@ -40,6 +38,15 @@ I am admitted to purse a master's degree in [CITE Lab](https://cite.nju.edu.cn/)
 
 📄 Publication
 ------
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/PanoAvatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PanoAvatar: Full-head Avatar Reconstruction from Monocular Video
+
+Anonymous Author(s)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2023</div><img src='images/TCCN_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
