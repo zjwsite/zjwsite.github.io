@@ -24,6 +24,14 @@
   }
 
   .page__inner-wrap {
+
+    clear: both;
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+
+     
     @include full();
 
     .page__content,
