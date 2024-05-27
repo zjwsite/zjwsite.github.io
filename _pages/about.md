@@ -38,7 +38,7 @@ I am admitted to purse a master's degree in NJU 3DV lab without entrance examina
 
 📄 Publication
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/PanoAvatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/PanoAvatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PanoAvatar: Full-head Avatar Reconstruction from Monocular Video
