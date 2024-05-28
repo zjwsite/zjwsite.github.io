@@ -79,8 +79,8 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 * Chinese National Student Scholarship, 2022~2023.
 * Chinese National Student Scholarship, 2021~2022.
 * Kaggle: G2Net Detecting Continuous Gravitational Waves Silver Medal (Top 5%)
-* First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) in Shaanxi Province
-* Finalist Winner (First prize), International Mathematical Contest in Modeling (MCM/ICM)
+* First Prize, China Undergraduate Mathematical Contest in Modeling in Shaanxi Province
+* Finalist Winner (First prize), International Mathematical Contest in Modeling
 
 <br>
 
