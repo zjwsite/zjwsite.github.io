@@ -9,7 +9,7 @@ redirect_from:
 ---
 ✏️ Biography
 ------
-I'm a senior undergraduate student from [School of artificial intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
+I'm a senior undergraduate student from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
 
 I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/), [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) from [IPIU lab](https://ipiu.xidian.edu.cn/).
 
