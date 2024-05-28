@@ -90,7 +90,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
     <div class="column" style="float:left;width:85%"> 
      	<p>2021.09—2023.04, Research intern</p>
       <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
-      <p><i>●&nbsp;&nbsp;&nbsp;Automatic Modulation Classification</i></p>
+      <p><i>&nbsp;&nbsp;&nbsp;● Automatic Modulation Classification</i></p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/ipiu.jpg">  
@@ -102,7 +102,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
     <div class="column" style="float:left;width:85%"> 
      	<p>2023.09—2024.03, Research intern</p>
       <p>OPPO Research Institute</p>
-      <p><i>●&nbsp;&nbsp;&nbsp;Facial Editing, Facial Modeling</i></p>
+      <p><i>&nbsp;&nbsp;&nbsp;● Facial Editing, Facial Modeling</i></p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/oppo.jpg">  
