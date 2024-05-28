@@ -105,7 +105,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
       <p><i>&nbsp;&nbsp;&nbsp;● Facial Editing, Facial Modeling</i></p>
     </div>
     <div class="column" style="float:left;width:15%">    
-        <img src="./images/oppo.jpg">  
+        <img src="./images/oppo.png">  
     </div> 
     <div style="clear: both;"></div>
   </div>
