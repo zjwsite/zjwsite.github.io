@@ -14,8 +14,8 @@ I'm a first-year master student in [NJU-3DV Lab - Digital Human Group](http://zh
 I received my bachelor's degree in Artificial Intelligence from [Xidian University](https://www.xidian.edu.cn/), where I was very fortunate to be advised by [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) and [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/) from [IPIU lab](https://ipiu.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
 
 <div class="row" style="display: flex; justify-content: center;">
-    <img src="./images/xdu.jpeg" style="margin-right: 10px;width: 150px;">  
-    <img src="./images/nju.jpeg" style="width: 150px;">  
+    <img src="./images/xdu.jpeg" style="margin-right: 10px;width: 15%;">  
+    <img src="./images/nju.jpeg" style="width: 15%;">  
 </div>
     
 <br>
