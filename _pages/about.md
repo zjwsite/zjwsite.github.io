@@ -18,15 +18,15 @@ I received my bachelor's degree in Artificial Intelligence from [Xidian Universi
 📘 Education
 ------
 <div class="row" style="display: flex; justify-content: center;">
-    <img src="./images/xdu.jpeg" style="margin-right: 10px;width: 200px;">  
-    <img src="./images/nju.jpeg" style="width: 200px;">  
+    <img src="./images/xdu.jpeg" style="margin-right: 10px;width: 150px;">  
+    <img src="./images/nju.jpeg" style="width: 150px;">  
 </div>
     
 <br>
 
 📄 Publication
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_avatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_head_avatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Towards Native Generative Model for 3D Head Avatar
