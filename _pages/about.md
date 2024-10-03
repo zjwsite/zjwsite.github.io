@@ -26,12 +26,14 @@ I received my bachelor's degree in Artificial Intelligence from [Xidian Universi
 
 📄 Publication
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/PanoAvatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_avatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PanoAvatar: Full-head Avatar Reconstruction from Monocular Video
+Towards Native Generative Model for 3D Head Avatar
 
-Anonymous Author(s)
+Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu *\*co-first author*
+
+[[paper]](https://arxiv.org/abs/2410.01226)[[video]](/pami_supp_video_fix_x264.mp4)
 
 </div>
 </div>
