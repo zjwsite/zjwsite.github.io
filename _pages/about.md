@@ -18,8 +18,8 @@ I received my bachelor's degree in Artificial Intelligence from [Xidian Universi
 📘 Education
 ------
 <div class="row" style="display: flex; justify-content: center;">
-    <img src="./images/XidianUniversity.jpeg" style="margin-right: 10px;width: 15px;">  
-    <img src="./images/XidianUniversity.jpeg" style="width: 15px;">  
+    <img src="./images/XidianUniversity.jpeg" style="margin-right: 10px;width: 50px;">  
+    <img src="./images/XidianUniversity.jpeg" style="width: 50px;">  
 </div>
     
 <br>
