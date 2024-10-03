@@ -9,30 +9,20 @@ redirect_from:
 ---
 ✏️ Biography
 ------
-I'm a senior undergraduate student from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
+I'm a first-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/) supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/). My current research interests lie in 3D computer vision and facial modeling.
 
-I am very fortunate to be advised by [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/), [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) from [IPIU lab](https://ipiu.xidian.edu.cn/).
-
-My current research interests lie in 3D computer vision and facial modeling.
-
-I am admitted to purse a master's degree in NJU 3DV lab without entrance examination.
+I received my bachelor's degree in [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), where I was very fortunate to be advised by [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) and (https://web.xidian.edu.cn/syyang/) from [IPIU lab](https://ipiu.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
 
 <br>
 
 📘 Education
 ------
-  <div class="row">   
-    <div class="column" style="float:left;width:85%"> 
-     	<p>School of Artificial Intelligence, Xidian University, Xi'an, P.R. China</p>
-      <p>B. Eng. from Sep. 2020 to Now. </p>
-      <p>Major in Artificial Intelligence, <em>Experimental Class</em></p>
-      <p><b>GPA:3.8/4.0</b></p>
+<div class="row" style="text-align:center;">
+    <div class="column" style="width:100%;"> 
+        <img src="./images/XidianUniversity.jpeg" style="margin: 0 10px;">  
+        <img src="./images/XidianUniversity.jpeg" style="margin: 0 10px;">  
     </div>
-    <div class="column" style="float:left;width:15%">    
-        <img src="./images/XidianUniversity.jpeg">  
-    </div> 
-    <div style="clear: both;"></div>
-    </div>
+</div>
     
 <br>
 
