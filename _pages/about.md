@@ -18,7 +18,7 @@ I received my bachelor's degree in [School of Artificial Intelligence](https://s
 📘 Education
 ------
 <div class="row" style="text-align:center;">
-    <div class="column" style="width:100%;"> 
+    <div class="column" style="float:left;width:15%"> 
         <img src="./images/XidianUniversity.jpeg" style="margin: 0 10px;">  
         <img src="./images/XidianUniversity.jpeg" style="margin: 0 10px;">  
     </div>
