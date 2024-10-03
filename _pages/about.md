@@ -11,16 +11,18 @@ redirect_from:
 ------
 I'm a first-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/) supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/). My current research interests lie in 3D computer vision and facial modeling.
 
-I received my bachelor's degree in [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), where I was very fortunate to be advised by [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) and (https://web.xidian.edu.cn/syyang/) from [IPIU lab](https://ipiu.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
+I received my bachelor's degree in [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), where I was very fortunate to be advised by [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) and [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/) from [IPIU lab](https://ipiu.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
 
 <br>
 
 📘 Education
 ------
 <div class="row" style="text-align:center;">
-    <div class="column" style="float:left;width:15%"> 
-        <img src="./images/XidianUniversity.jpeg" style="margin: 0 10px;">  
-        <img src="./images/XidianUniversity.jpeg" style="margin: 0 10px;">  
+    <div class="column" style="display: inline-block; width: 50%;">
+        <img src="./images/XidianUniversity.jpeg" style="width: 15%;">
+    </div>
+    <div class="column" style="display: inline-block; width: 50%;">
+        <img src="./images/XidianUniversity.jpeg" style="width: 15%;">
     </div>
 </div>
     
