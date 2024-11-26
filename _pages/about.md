@@ -15,6 +15,8 @@ I received my bachelor's degree in Artificial Intelligence from [Xidian Universi
 
 <p style="color:blue;">Welcome to any research collaborations and discussions! Please feel free to contact me via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.</p>
 
+<br>
+
 <div class="row" style="display: flex; justify-content: center;">
     <img src="./images/xdu.jpeg" style="margin-right: 10px;width: 15%;">  
     <img src="./images/nju.jpeg" style="width: 15%;">  
