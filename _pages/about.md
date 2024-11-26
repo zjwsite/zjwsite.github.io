@@ -22,6 +22,18 @@ I received my bachelor's degree in Artificial Intelligence from [Xidian Universi
 
 📄 Publication
 ------
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
+
+**Jiawei Zhang**, Zijian Wu, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu
+
+[[paper]](https://arxiv.org/abs/2411.15604)[[homepage]](https://zjwfufu.github.io/FATE-page/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_head_avatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
