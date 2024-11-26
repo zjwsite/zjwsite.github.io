@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu:           : https://www.zhihu.com/people/ba-an-he-lu-hua-gai
+  zhihu:           : "https://www.zhihu.com/people/ba-an-he-lu-hua-gai"
   wechat:          : images/wechat.png
 
 # Reading Files
