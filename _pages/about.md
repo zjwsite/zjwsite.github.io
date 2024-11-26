@@ -22,7 +22,7 @@ I received my bachelor's degree in Artificial Intelligence from [Xidian Universi
 
 📄 Publication
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
