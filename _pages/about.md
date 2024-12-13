@@ -13,7 +13,7 @@ I'm a first-year master student in [NJU-3DV Lab - Digital Human Group](http://zh
 
 I received my bachelor's degree in Artificial Intelligence from [Xidian University](https://www.xidian.edu.cn/), where I was very fortunate to be advised by [Prof. Zhixi Feng](https://web.xidian.edu.cn/zxfeng/) and [Prof. Shuyuan Yang](https://web.xidian.edu.cn/syyang/) from [IPIU lab](https://ipiu.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
 
-I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and research. Please feel free to contact me via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
+I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and study experience. Please feel free to contact me via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
 
 <br>
 
