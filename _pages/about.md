@@ -33,7 +33,7 @@ FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 
 **Jiawei Zhang**, Zijian Wu, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu
 
-[[paper]](https://arxiv.org/abs/2411.15604)[[homepage]](https://zjwfufu.github.io/FATE-page/)
+[[paper]](https://arxiv.org/abs/2411.15604)[[code]](https://github.com/zjwfufu/FateAvatar)[[homepage]](https://zjwfufu.github.io/FATE-page/)
 
 </div>
 </div>
