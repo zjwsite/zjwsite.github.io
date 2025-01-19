@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-✏️ Biography
+Biography
 ------
 I'm a first-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/). My current research interests lie in 3D computer vision and facial modeling.
 
@@ -24,7 +24,7 @@ I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about
     
 <br>
 
-📄 Publication
+Publication
 ------
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 
 <br>
 
-🏆 Honors & Awards
+Honors & Awards
 ------
 * Chinese National Student Scholarship, 2022~2023
 * Chinese National Student Scholarship, 2021~2022
@@ -85,7 +85,7 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 
 <br>
 
-💻Internships
+Internships
 ------
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
@@ -112,3 +112,10 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
     </div> 
     <div style="clear: both;"></div>
   </div>
+
+<br>
+
+Service
+------
+Reviewer of: TCSVT
+
