@@ -49,6 +49,12 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 </div>
 </div>
 
+<h3>Undergrad</h3>
+
+<!-- Toggle Section -->
+<details>
+    <summary>Click to expand</summary>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2023</div><img src='images/TCCN_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards the Automatic Modulation Classification with Adaptive Wavelet Network
@@ -69,13 +75,6 @@ Ling-Hao Chen*, **Jiawei Zhang***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang L
 [[paper]](https://arxiv.org/abs/2302.03665) [[code]](https://github.com/LinghaoChan/HumanMAC) [[homepage]](https://lhchen.top/Human-MAC/)
 </div>
 </div>
-
-<h3>Undergrad</h3>
-
-<!-- Toggle Section -->
-<details>
-    <summary>Click to expand</summary>
-
 
 </details>
 
