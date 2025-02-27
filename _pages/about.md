@@ -55,6 +55,19 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 <details>
     <summary>Click to expand</summary>
 
+  <div class="row">   
+    <div class="column" style="float:left;width:85%"> 
+     	<p>2021.09—2022.09, Research intern</p>
+      <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
+      <p><i>&nbsp;&nbsp;&nbsp;● Automatic Modulation Classification</i></p>
+      <p>&nbsp;&nbsp;&nbsp;● Supervisor: Zhixi Feng</p>
+    </div>
+    <div class="column" style="float:left;width:15%">    
+        <img src="./images/ipiu.jpg">  
+    </div> 
+    <div style="clear: both;"></div>
+  </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2023</div><img src='images/TCCN_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards the Automatic Modulation Classification with Adaptive Wavelet Network
@@ -100,19 +113,6 @@ Internships
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/oppo.png">  
-    </div> 
-    <div style="clear: both;"></div>
-  </div>
-
-  <div class="row">   
-    <div class="column" style="float:left;width:85%"> 
-     	<p>2021.09—2022.09, Research intern</p>
-      <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
-      <p><i>&nbsp;&nbsp;&nbsp;● Automatic Modulation Classification</i></p>
-      <p>&nbsp;&nbsp;&nbsp;● Supervisor: Zhixi Feng</p>
-    </div>
-    <div class="column" style="float:left;width:15%">    
-        <img src="./images/ipiu.jpg">  
     </div> 
     <div style="clear: both;"></div>
   </div>
