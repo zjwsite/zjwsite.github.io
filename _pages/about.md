@@ -29,9 +29,13 @@ Publication
 *\* co-first author*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
+    
     FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
+    
     **Jiawei Zhang**, Zijian Wu, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu
+    
     [[paper]](https://arxiv.org/abs/2411.15604)[[code]](https://github.com/zjwfufu/FateAvatar)[[homepage]](https://zjwfufu.github.io/FATE-page/)
+    
   </div>
 </div>
 
