@@ -26,7 +26,8 @@ I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about
 
 Publication
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
+*\* co-first author*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
@@ -43,7 +44,7 @@ FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 
 Towards Native Generative Model for 3D Head Avatar
 
-Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu *\*co-first author*
+Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/pami_supp_video_fix_x264.mp4)
 
@@ -67,7 +68,7 @@ Towards the Automatic Modulation Classification with Adaptive Wavelet Network
 
 HumanMAC: Masked Motion Completion for Human Motion Prediction
 
-Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu *\*co-first author*
+Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu
   
 [[paper]](https://arxiv.org/abs/2302.03665)[[code]](https://github.com/LinghaoChan/HumanMAC)[[homepage]](https://lhchen.top/Human-MAC/)
 
@@ -89,19 +90,6 @@ Internships
 ------
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
-     	<p>2021.09—2022.09, Research intern</p>
-      <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
-      <p><i>&nbsp;&nbsp;&nbsp;● Automatic Modulation Classification</i></p>
-      <p>&nbsp;&nbsp;&nbsp;● Supervisor: Zhixi Feng</p>
-    </div>
-    <div class="column" style="float:left;width:15%">    
-        <img src="./images/ipiu.jpg">  
-    </div> 
-    <div style="clear: both;"></div>
-  </div>
-
-  <div class="row">   
-    <div class="column" style="float:left;width:85%"> 
      	<p>2023.09—2024.03, Research intern</p>
       <p>OPPO Research Institute</p>
       <p><i>&nbsp;&nbsp;&nbsp;● Facial Editing, Facial Modeling</i></p>
@@ -109,6 +97,19 @@ Internships
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/oppo.png">  
+    </div> 
+    <div style="clear: both;"></div>
+  </div>
+
+  <div class="row">   
+    <div class="column" style="float:left;width:85%"> 
+     	<p>2021.09—2022.09, Research intern</p>
+      <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
+      <p><i>&nbsp;&nbsp;&nbsp;● Automatic Modulation Classification</i></p>
+      <p>&nbsp;&nbsp;&nbsp;● Supervisor: Zhixi Feng</p>
+    </div>
+    <div class="column" style="float:left;width:15%">    
+        <img src="./images/ipiu.jpg">  
     </div> 
     <div style="clear: both;"></div>
   </div>
