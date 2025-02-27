@@ -81,7 +81,7 @@ Towards the Automatic Modulation Classification with Adaptive Wavelet Network
 <div class='paper-box-text' markdown="1">
 HumanMAC: Masked Motion Completion for Human Motion Prediction
   
-Ling-Hao Chen*, **Jiawei Zhang***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu
+Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu
 
 [[paper]](https://arxiv.org/abs/2302.03665) [[code]](https://github.com/LinghaoChan/HumanMAC) [[homepage]](https://lhchen.top/Human-MAC/)
 </div>
