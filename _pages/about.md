@@ -51,7 +51,7 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 </div>
 </div>
 
-<h3>Undergra</h3>
+<h3>Undergrad</h3>
 
 <!-- Toggle Section -->
 <details>
