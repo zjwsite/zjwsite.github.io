@@ -57,10 +57,8 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
-     	<p>2021.09—2022.09, Research intern</p>
-      <p>Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding</p>
-      <p><i>&nbsp;&nbsp;&nbsp;● Automatic Modulation Classification</i></p>
-      <p>&nbsp;&nbsp;&nbsp;● Supervisor: Zhixi Feng</p>
+      <p>I was research intern supervised by Zhixi Feng in Key Laboratory of <b>I</b>ntelligent <b>P</b>erception and <b>I</b>mage <b>U</b>nderstanding,</p>
+      <p>focusing on Automatic Modulation Classification and Raido-frequency Machine Learning.</p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/ipiu.jpg">  
