@@ -59,7 +59,7 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
     <div class="column" style="float:left;width:90%"> 
       <p></p>
       <p></p>
-      <p>I was research intern supervised by Zhixi Feng in <i>Key Laboratory of Intelligent Perception and Image Understanding</i>, focusing on Automatic Modulation Classification and Raido-frequency Machine Learning.</p>
+      <p>I was research intern supervised by Zhixi Feng in <i>Key Laboratory of Intelligent Perception and Image Understanding</i>, focusing on Automatic Modulation Classification and Raido-frequency Machine Learning. I also engaged with other topics to explore my research interests.</p>
     </div>
     <div class="column" style="float:left;width:10%">    
         <img src="./images/ipiu.jpg">  
