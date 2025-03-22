@@ -53,7 +53,7 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 <div class='paper-box-text' markdown="1">
 SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
 
-Zijian Wu, Jiawei Zhang, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
+Zijian Wu, **Jiawei Zhang**, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 
 [[paper]](/SurfAvatar.pdf)
 
@@ -65,7 +65,7 @@ Zijian Wu, Jiawei Zhang, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 <div class='paper-box-text' markdown="1">
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
-Yanwen Wang, Yiyu Zhuang, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
+Yanwen Wang, Yiyu Zhuang, **Jiawei Zhang**, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
 
 [[paper]](/TeRA.pdf)
 
