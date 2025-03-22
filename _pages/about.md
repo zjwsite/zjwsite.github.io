@@ -49,7 +49,7 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/surfavatar.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/surfavatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
 
@@ -61,7 +61,7 @@ Zijian Wu, **Jiawei Zhang**, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tera.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tera.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
