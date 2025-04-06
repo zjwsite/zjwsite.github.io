@@ -46,6 +46,7 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/pami_supp_video_fix_x264.mp4)
 
+<!--
 </div>
 </div>
 
@@ -71,6 +72,7 @@ Yanwen Wang, Yiyu Zhuang, **Jiawei Zhang**, Li Wang, Yifei Zeng, Xun Cao, Xinxin
 
 </div>
 </div>
+-->
 
 <h3>Undergrad</h3>
 
