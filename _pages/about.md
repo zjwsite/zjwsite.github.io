@@ -46,10 +46,10 @@ Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
 
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/pami_supp_video_fix_x264.mp4)
 
-<!--
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/surfavatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
