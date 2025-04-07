@@ -131,12 +131,12 @@ Internships
 ------
 
   <div class="row">   
-    <div class="column" style="float:left;width:85%"> 
+    <div class="column" style="float:left;width:80%"> 
      	<p>2025.04—Present, Research Intern</p>
       <p>Microsoft Research Asia</p>
       <p><i>&nbsp;&nbsp;&nbsp;● Avatar Generation</i></p>
     </div>
-    <div class="column" style="float:left;width:15%">    
+    <div class="column" style="float:left;width:20%">    
         <img src="./images/msra.png">  
     </div> 
     <div style="clear: both;"></div>
