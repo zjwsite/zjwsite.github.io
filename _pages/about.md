@@ -129,12 +129,24 @@ Honors & Awards
 
 Internships
 ------
+
   <div class="row">   
     <div class="column" style="float:left;width:85%"> 
-     	<p>2023.09—2024.03, Research intern</p>
+     	<p>2025.04—Present, Research Intern</p>
+      <p>Microsoft Research Asia</p>
+      <p><i>&nbsp;&nbsp;&nbsp;● Avatar Generation</i></p>
+    </div>
+    <div class="column" style="float:left;width:15%">    
+        <img src="./images/msra.png">  
+    </div> 
+    <div style="clear: both;"></div>
+  </div>
+
+  <div class="row">   
+    <div class="column" style="float:left;width:85%"> 
+     	<p>2023.09—2024.03, Research Intern</p>
       <p>OPPO Research Institute</p>
       <p><i>&nbsp;&nbsp;&nbsp;● Facial Editing, Facial Modeling</i></p>
-      <p>&nbsp;&nbsp;&nbsp;● Supervisor: Dongfang Hu</p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/oppo.png">  
@@ -144,7 +156,4 @@ Internships
 
 <br>
 
-Service
-------
-Reviewer of: TCSVT
 
