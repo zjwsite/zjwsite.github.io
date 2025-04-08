@@ -146,7 +146,7 @@ Internships
     <div class="column" style="float:left;width:85%"> 
      	<p>2023.09—2024.03, Research Intern</p>
       <p>OPPO Research Institute</p>
-      <p><i>&nbsp;&nbsp;&nbsp;● Facial Editing, Facial Modeling</i></p>
+      <p><i>&nbsp;&nbsp;&nbsp;● Facial Modeling</i></p>
     </div>
     <div class="column" style="float:left;width:15%">    
         <img src="./images/oppo.png">  
