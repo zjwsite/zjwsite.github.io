@@ -118,15 +118,6 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 
 <br>
 
-Honors & Awards
-------
-* Chinese National Student Scholarship, 2022~2023
-* Chinese National Student Scholarship, 2021~2022
-* Kaggle: G2Net Detecting Continuous Gravitational Waves Silver Medal (Top 5%)
-* First Prize, China Undergraduate Mathematical Contest in Modeling in Shaanxi Province
-
-<br>
-
 Internships
 ------
 
@@ -156,4 +147,12 @@ Internships
 
 <br>
 
+Honors & Awards
+------
+* Chinese National Student Scholarship, 2022~2023
+* Chinese National Student Scholarship, 2021~2022
+* Kaggle: G2Net Detecting Continuous Gravitational Waves Silver Medal (Top 5%)
+* First Prize, China Undergraduate Mathematical Contest in Modeling in Shaanxi Province
+
+<br>
 
