@@ -9,7 +9,7 @@ redirect_from:
 ---
 Biography
 ------
-I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/). My current research interests lie in digital avatar, neural rendering and generative model.
+I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/).
 
 I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
 
