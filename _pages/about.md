@@ -16,10 +16,10 @@ I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about
 <br>
 
 <div class="row" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./images/msra.png" style="max-width: 100px; max-height: 80px; width: auto; height: auto;">
-    <img src="./images/nju.jpeg" style="max-width: 100px; max-height: 80px; width: auto; height: auto;">
-    <img src="./images/oppo.png" style="max-width: 100px; max-height: 80px; width: auto; height: auto;">
-    <img src="./images/xdu.jpeg" style="max-width: 100px; max-height: 80px; width: auto; height: auto;">
+    <img src="./images/msra.png" style="max-width: 200px; max-height: 150px; width: auto; height: auto;">
+    <img src="./images/nju.jpeg" style="max-width: 150px; max-height: 120px; width: auto; height: auto;">
+    <img src="./images/oppo.png" style="max-width: 150px; max-height: 120px; width: auto; height: auto;">
+    <img src="./images/xdu.jpeg" style="max-width: 150px; max-height: 120px; width: auto; height: auto;">
 </div>
     
 <br>
