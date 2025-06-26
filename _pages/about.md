@@ -36,7 +36,7 @@ FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tera.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/tera.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
