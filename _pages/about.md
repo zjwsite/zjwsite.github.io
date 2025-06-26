@@ -20,7 +20,7 @@ I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about
 <div class="row" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center; gap: 10px;">
     <img src="./images/msra.png" style="max-width: 200px; max-height: 150px; width: auto; height: auto;">
     <img src="./images/nju.jpeg" style="max-width: 150px; max-height: 120px; width: auto; height: auto;">
-    <img src="./images/oppo.png" style="max-width: 150px; max-height: 120px; width: auto; height: auto;">
+    <img src="./images/oppo.png" style="max-width: 120px; max-height: 100px; width: auto; height: auto;">
     <img src="./images/xdu.jpeg" style="max-width: 150px; max-height: 120px; width: auto; height: auto;">
 </div>
     
@@ -128,35 +128,6 @@ Ling-Hao Chen\*, **Jiawei Zhang\***, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang
 </div>
 
 </details>
-
-<br>
-
-Internships
-------
-
-  <div class="row">   
-    <div class="column" style="float:left;width:80%"> 
-     	<p>2025.04—Present, Research Intern</p>
-      <p>Microsoft Research Asia</p>
-      <p><i>&nbsp;&nbsp;&nbsp;● Avatar Generation</i></p>
-    </div>
-    <div class="column" style="float:left;width:20%">    
-        <img src="./images/msra.png">  
-    </div> 
-    <div style="clear: both;"></div>
-  </div>
-
-  <div class="row">   
-    <div class="column" style="float:left;width:85%"> 
-     	<p>2023.09—2024.03, Research Intern</p>
-      <p>OPPO Research Institute</p>
-      <p><i>&nbsp;&nbsp;&nbsp;● Facial Modeling</i></p>
-    </div>
-    <div class="column" style="float:left;width:15%">    
-        <img src="./images/oppo.png">  
-    </div> 
-    <div style="clear: both;"></div>
-  </div>
 
 <br>
 
