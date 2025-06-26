@@ -9,7 +9,7 @@ redirect_from:
 ---
 Biography
 ------
-I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/). I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
+I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/). I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020 to 2024.
 
 I previously interned at OPPO Research and am currently interning at Microsoft Research Asia.
 
