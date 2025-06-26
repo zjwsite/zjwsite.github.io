@@ -17,9 +17,9 @@ I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about
 
 <div class="row" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center;">
     <img src="./images/msra.png" style="width: 15%; margin-left: 10px;">
-    <img src="./images/nju.jpeg" style="width: 15%; margin-left: 10px;">
+    <img src="./images/nju.jpeg" style="width: 10%; margin-left: 10px;">
     <img src="./images/oppo.png" style="width: 15%; margin-left: 10px;">
-    <img src="./images/xdu.jpeg" style="width: 15%;">
+    <img src="./images/xdu.jpeg" style="width: 10%;">
 </div>
     
 <br>
