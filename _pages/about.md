@@ -36,6 +36,17 @@ FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tera.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
+
+Yanwen Wang, Yiyu Zhuang, **Jiawei Zhang**, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
+
+[[paper]](/files/TeRA.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_head_avatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Towards Native Generative Model for 3D Head Avatar
