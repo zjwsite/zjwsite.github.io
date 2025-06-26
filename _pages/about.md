@@ -9,7 +9,9 @@ redirect_from:
 ---
 Biography
 ------
-I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/). I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024. I interned at OPPO Research Institute. Currently, I am interning at Microsoft Research Asia.
+I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/). I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020-2024.
+
+I interned at OPPO Research Institute. Currently, I am interning at Microsoft Research Asia.
 
 I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and study experience. Please feel free to contact me via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
 
