@@ -34,6 +34,7 @@ Publication
 FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 
 **Jiawei Zhang**, Zijian Wu, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao,
+
 Xun Cao, Hao Zhu
 
 [[paper]](https://arxiv.org/abs/2411.15604)[[code]](https://github.com/zjwfufu/FateAvatar)[[homepage]](https://zjwfufu.github.io/FATE-page/)
@@ -46,6 +47,7 @@ Xun Cao, Hao Zhu
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
 Yanwen Wang, Yiyu Zhuang, **Jiawei Zhang**, Li Wang, Yifei Zeng, Xun Cao,
+
 Xinxin Zuo, Hao Zhu
 
 [[paper]](/files/TeRA.pdf)
@@ -58,6 +60,7 @@ Xinxin Zuo, Hao Zhu
 Towards Native Generative Model for 3D Head Avatar
 
 Yiyu Zhuang\*, Yuxiao He\*, **Jiawei Zhang\***, Yanwen Wang, Jiahe Zhu, Yao Yao,
+
 Siyu Zhu, Xun Cao, Hao Zhu
 
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/pami_supp_video_fix_x264.mp4)
