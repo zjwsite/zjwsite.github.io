@@ -9,11 +9,15 @@ redirect_from:
 ---
 Biography
 ------
-I'm a first-year master student in [NJU-3DV](http://zhuhao.cc/group/). I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020 to 2024.
+I'm a first-year master student in NJU-3DV.
+
+I received my B.Eng. degree from [Xidian University](https://www.xidian.edu.cn/). I had a wonderful time with my friends in Xi'an, China from 2020 to 2024.
 
 I previously interned at OPPO Research and am currently interning at Microsoft Research Asia.
 
-I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and learning experience. Please feel free to reach out via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
+I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and learning experience.
+
+Please feel free to reach out via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
 
 <br>
 
@@ -103,7 +107,7 @@ Yanwen Wang, Yiyu Zhuang, **Jiawei Zhang**, Li Wang, Yifei Zeng, Xun Cao, Xinxin
     <div class="column" style="float:left;width:90%"> 
       <p></p>
       <p></p>
-      <p>I was research intern supervised by Prof. Zhixi Feng in <i>Key Laboratory of Intelligent Perception and Image Understanding</i>, focusing on Automatic Modulation Classification and Raido-frequency Machine Learning.</p>
+      <p>I was research intern supervised in <i>Key Laboratory of Intelligent Perception and Image Understanding</i>, focusing on Automatic Modulation Classification and Raido-frequency Machine Learning.</p>
       <p>I also engaged with other topics to explore my research interests.</p>
     </div>
     <div class="column" style="float:left;width:10%">    
