@@ -9,17 +9,13 @@ redirect_from:
 ---
 Biography
 ------
-I'm a second-year master student in NJU-3DV.
+I am a second-year master's student at NJU-3DV, currently interning at Microsoft Research, focusing on multimodal understanding and generation.
 
-I previously interned at OPPO Research and Microsoft Research Asia.
+Previously, I interned at OPPO Research and Microsoft Research Asia. I received my B.Eng. degree from Xidian University, and spent a wonderful time with my friends in Xi'an, China from 2020 to 2024.
 
-I am currently interning at Microsoft Research, working on multimodal understanding and generation.
+I maintain a [blog](https://zjwfufu.github.io/) (in Chinese), where I write about my life and learning experience.
 
-I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and learning experience.
-
-I received my B.Eng. degree from Xidian University, spent a wonderful time with my friends in Xi'an, China from 2020 to 2024.
-
-Please feel free to reach out via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
+Feel free to reach out via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
 
 <br>
 
@@ -41,9 +37,7 @@ Publication
 <div class='paper-box-text' markdown="1">
 Bringing Your Portrait to 3D Presence
 
-Jiawei Zhang, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li
-
-Xiao Li, Xun Cao, Hao Zhu, Yan Lu
+Jiawei Zhang, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li, Xun Cao, Hao Zhu, Yan Lu
 
 [[paper]](https://arxiv.org/abs/2511.22553)[[code]](/pami_supp_video_fix_x264.mp4)[[tracker]](https://github.com/zjwfufu/EVA-tracker)[[homepage]](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence)
 
