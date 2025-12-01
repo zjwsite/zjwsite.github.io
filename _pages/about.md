@@ -11,18 +11,20 @@ Biography
 ------
 I'm a second-year master student in NJU-3DV.
 
-I received my B.Eng. degree from Xidian University, and had a wonderful time with my friends in Xi'an, China from 2020 to 2024.
+I previously interned at OPPO Research and Microsoft Research Asia.
 
-I previously interned at OPPO Research and Microsoft Research Asia, and am currently interning at Microsoft Research, working on multimodal understanding and generation.
+I am currently interning at Microsoft Research, working on multimodal understanding and generation.
 
 I maintain a [blog](https://zjwfufu.github.io/) (in Chinese) where I write about my life and learning experience.
+
+I received my B.Eng. degree from Xidian University, spent a wonderful time with my friends in Xi'an, China from 2020 to 2024.
 
 Please feel free to reach out via <a href="mailto:jiaweizhang.fufu@gmail.com">email</a> or <a href="images/wechat.png" target="_blank">wechat</a>.
 
 <br>
 
 <div class="row" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./images/msr.png"  style="max-width: 200px; max-height: 150px; width: auto; height: auto;">
+    <img src="./images/msr.png"  style="max-width: 144px; max-height: 150px; width: auto; height: auto;">
     <img src="./images/msra.png" style="max-width: 200px; max-height: 150px; width: auto; height: auto;">
     <img src="./images/nju.jpeg" style="max-width: 130px; max-height: 100px; width: auto; height: auto;">
     <img src="./images/oppo.png" style="max-width: 120px; max-height: 100px; width: auto; height: auto;">
@@ -135,7 +137,6 @@ Towards the Automatic Modulation Classification with Adaptive Wavelet Network
 
 Honors & Awards
 ------
-* Stars of Tomorrow, Microsoft Research Asia
 * Chinese National Student Scholarship for Postgraduate, 2024~2025
 * Chinese National Student Scholarship, 2022~2023
 * Chinese National Student Scholarship, 2021~2022
