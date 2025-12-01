@@ -37,7 +37,9 @@ Publication
 <div class='paper-box-text' markdown="1">
 Bringing Your Portrait to 3D Presence
 
-**Jiawei Zhang**, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li, Xun Cao, Hao Zhu, Yan Lu
+**Jiawei Zhang**, Lei Chu, Jiahao Li, Zhenyu Zang, Chong Li, Xiao Li,
+
+Xun Cao, Hao Zhu, Yan Lu
 
 [[paper]](https://arxiv.org/abs/2511.22553)[[code]](/pami_supp_video_fix_x264.mp4)[[tracker]](https://github.com/zjwfufu/EVA-tracker)[[homepage]](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence)
 
