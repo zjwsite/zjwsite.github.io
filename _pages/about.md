@@ -127,6 +127,17 @@ Towards the Automatic Modulation Classification with Adaptive Wavelet Network
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/ICASSP_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+AMC-net: An effective network for automatic modulation classification
+
+**Jiawei Zhang**, Tiantian Wang, Zhixi Feng, Shuyuan Yang
+
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10097070/) [[code]](https://github.com/zjwfufu/AMC-Net)
+
+</div>
+</div>
+
 </details>
 
 <br>
