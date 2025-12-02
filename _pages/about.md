@@ -133,6 +133,7 @@ Towards the Automatic Modulation Classification with Adaptive Wavelet Network
 
 Honors & Awards
 ------
+* Stars of Tomorrow, Microsoft Research Asia
 * Chinese National Student Scholarship for Postgraduate, 2024~2025
 * Chinese National Student Scholarship, 2022~2023
 * Chinese National Student Scholarship, 2021~2022
