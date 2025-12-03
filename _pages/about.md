@@ -41,7 +41,7 @@ Bringing Your Portrait to 3D Presence
 
 Xun Cao, Hao Zhu, Yan Lu
 
-[[paper]](https://arxiv.org/abs/2511.22553)[[code]](/pami_supp_video_fix_x264.mp4)[[tracker]](https://github.com/zjwfufu/EVA-tracker)[[homepage]](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence)
+[[paper]](https://arxiv.org/abs/2511.22553)[[code]](https://github.com/zjwfufu/Bringing-Your-Portrait-to-3D-Presence)[[tracker]](https://github.com/zjwfufu/EVA-tracker)[[homepage]](https://zjwfufu.github.io/HuaPi-Page/)
 
 </div>
 </div>
