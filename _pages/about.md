@@ -67,7 +67,7 @@ Yanwen Wang, Yiyu Zhuang, **Jiawei Zhang**, Li Wang, Yifei Zeng, Xun Cao,
 
 Xinxin Zuo, Hao Zhu
 
-[[paper]](/files/TeRA.pdf)
+[[paper]](https://arxiv.org/abs/2509.02466)[[homepage]](https://yanwen-w.github.io/TeRA-Page/)
 
 </div>
 </div>
