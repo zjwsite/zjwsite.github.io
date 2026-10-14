@@ -445,6 +445,11 @@ table.imgtable, table.imgtable td {
   max-width: 60%;
 }
 
+/* Keep each author's given name and surname together at line breaks. */
+.paper-authors .author-name {
+  white-space: nowrap;
+}
+
 /* mobile */
 @media (max-width: 768px) {
   .paper-box {
